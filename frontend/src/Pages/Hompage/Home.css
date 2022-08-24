@@ -1,0 +1,7 @@
+.home-sec {
+    display: flex;
+    flex-direction: column;
+    /* width: 80vw; */
+    /* width: 100%; */
+    /* height: 800px; */
+}

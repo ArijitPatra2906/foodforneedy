@@ -1,0 +1,81 @@
+.main_register {
+    min-height: 95vh;
+    min-width: 100vw;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.register_container {
+    display: flex;
+    justify-content: space-around;
+    height: 75vh;
+    width: 80vw;
+    border-radius: 1rem;
+    margin: 2rem auto;
+    text-align: center;
+    align-items: center;
+}
+
+.left_register {
+    margin: 2rem 2rem;
+    height: 80%;
+    /* margin-left: 450px; */
+    margin-top: -40px;
+}
+
+.registerForm {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.right_register img {
+    height: 400px;
+    width: 500px;
+}
+
+.reg-section input {
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    margin-top: 20px;
+    padding-left: 40px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(132, 123, 123);
+}
+
+.title_register {
+    margin-left: -200px;
+    padding-left: 20px;
+    font-size: 32px;
+}
+
+.icon-reg {
+    height: 58px;
+    width: 38px;
+    color: black;
+    position: absolute;
+    padding: 32px 0 0 2px;
+    border: none;
+}
+
+.registerButton {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(28, 166, 212);
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.have {
+    text-align: left;
+    font-size: 16px;
+    color: rgb(59, 60, 60);
+}

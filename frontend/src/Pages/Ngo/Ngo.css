@@ -1,0 +1,109 @@
+.list {
+    width: 98vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.ngo {
+    width: 97vw;
+}
+
+table {
+    border: 2px solid rgb(139, 141, 139);
+    width: 89%;
+    height: 200px;
+}
+
+th {
+    border-bottom: 1px solid black;
+
+}
+
+tr {
+    height: 40px;
+    /* border-bottom: 1px solid black; */
+}
+
+td {
+    text-align: left;
+    /* border-right: 1px solid rgb(122, 119, 119); */
+    /* border-bottom: 1px solid black; */
+
+}
+
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.filter input {
+    width: 200px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 6px;
+    /* padding: 2px; */
+    outline: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+::placeholder {
+    padding-left: 20px;
+}
+
+.icon-search {
+    font-size: 20px;
+    margin-right: -10px;
+}
+
+.paginationBttns {
+    width: 90%;
+    height: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.paginationBttns a {
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #434439;
+    color: #1b200c;
+    cursor: pointer;
+}
+
+.paginationBttns a:hover {
+    color: white;
+    background-color: #050d0f;
+}
+
+.activeBttn a {
+    color: white;
+    background-color: #050d0f;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+@media screen and (max-width:700px) {
+    .ngo {
+        width: 100vw;
+    }
+}

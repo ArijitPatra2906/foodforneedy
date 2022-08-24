@@ -1,0 +1,96 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 65px;
+    /* background-color: #00828c; */
+    color: rgb(230, 149, 19);
+}
+
+.nav-section {
+    box-shadow: 2px 3px 4px 4px rgb(240, 232, 215);
+
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    /* margin-top: 10px; */
+    margin-left: 100px;
+    margin-right: 160px;
+}
+
+
+.navbar ul li {
+    text-decoration: none;
+    /* cursor: pointer; */
+    display: flex;
+}
+
+.nav-links {
+    display: flex;
+    gap: 100px;
+    /* cursor: pointer; */
+    justify-content: space-around;
+    /* margin-left: 80px; */
+}
+
+.menu {
+    display: none;
+}
+
+.nav-home,
+.nav-settings,
+.nav-login,
+.nav-write {
+    text-decoration: none;
+    color: rgb(169, 137, 124);
+    /* padding: 10px 20px; */
+    font-size: 18px;
+    cursor: pointer;
+    /* margin-bottom: 00px; */
+    /* margin: 0 10px; */
+    list-style: none;
+    font-weight: 600;
+    /* margin-top: -10px; */
+}
+
+/* .nav-login {
+    margin-left: 250px;
+} */
+
+.list {
+    margin-left: -1110px;
+}
+
+.topRight {
+    border: 50%;
+    /* margin-right: 900px; */
+}
+
+.userimage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+@media screen and (max-width:700px) {
+    .navbar {
+        width: 100%;
+        height: 60px;
+    }
+
+    .navbar ul {
+        display: none;
+    }
+
+    .logo {
+        margin-left: -20px;
+    }
+
+    .topRight {
+        margin-left: 160px;
+    }
+}

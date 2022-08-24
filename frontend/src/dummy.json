@@ -1,0 +1,629 @@
+{
+    "NgoData" : [
+        {
+            "id":"1",
+            "name":"Alipurduar Anubhab Foundation",
+            "address":"Newtown, Park Road by lane, PO - Alipurduar Court, Dt - Alipurduar, PIN 736122, West Bengal",
+            "contact":"7076565499"
+          },
+          {
+            "id":"2",
+            "name":"Alipurduar Binapani Seba Farmers Club",
+            "address":"Alipurduar Junction Vill- South Jitpur P.O- Bholar Dabri Dist -Alipurduar Pin-736123(WEST BENGAL)",
+            "contact":"7003952613"
+          },
+          {
+              "id":"3",
+              "name":"ABOGAHAN FOUNDATION",
+              "address":"C/OArindrajit Banerjee, Sainthia, Rabindra Pally, Near Gourio math, Angra Sangra college road, Ward No 6, PO PSSainthia, DistBirbhum, Pin - 731234(WEST BENGAL)",
+              "contact":"9093584914"
+          },
+          {
+              "id":"4",
+              "name":"ABRITTILOKE KOLKATA",
+              "address":"Abrittiloke Kolkata 8, Ram Narayan Bhattacharjee Lane Kolkata pin 700-006(WEST BENGAL)",
+              "contact":"9830228607"
+          },
+          {
+              "id":"5",
+              "name":"ABU BAKAR KHAN SEBA SADAN",
+              "address":"VILLFURFURA, POFURFURA, PSJANGIPARA, SUBSERAMPORE, DISTHOOGHLY, PIN - 712706, W. B.",
+              "contact":"7384352737"
+          },
+          {
+              "id":"6",
+              "name":"ACADEMY OF SOUND HEALING",
+              "address":"156A, LENIN SARANI, UNIT 208, 2ND FLOOR, P.O.DHARMATALA, P.S.BOWBAZAR, KOLKATA pin - 700013(WEST BENGAL)",
+              "contact":"9830094215"
+          },
+          {
+              "id":"7",
+              "name":"ACADEMY THEATRE",
+              "address":"REGD OFFICE: 177 NETAJI SUBHAS ROAD HOWRAH-711 101 CITY OFFICE : 21/4 ASWINI DUTTA ROAD KOKATA pin - 700 029(WEST BENGAL)",
+              "contact":"9830372702"
+          },
+          {
+              "id":"8",
+              "name":"ACCORD",
+              "address":"51/A, MIDDLE ROAD, SOUTH VIEW APARTMENT, GROUND FLOOR,BARRACKPORE,P.O. : NONACHANDANPUKUR, DIST. : 24 PARGANAS (NORTH),KOLKATA pin - 700122.(WEST BENGAL)",
+              "contact":"9831219639"
+          },
+          {
+              "id":"9",
+              "name":"ACES INFOTECH PRIVATE LIMITECH",
+              "address":"71B, ALIPORE ROAD, KOLKATA pin - 700027",
+              "contact":"8017444504"
+          },
+          {
+              "id":"10",
+              "name":"Alipurduar district social workers and blood donors association",
+              "address":"NEW TOWN GIRLS HIGH SCHOOL ROAD,PO-ALIPURDUAR,PS-ALIPURDUAR,DIST-ALIPURDUAR,PIN-736121, (WEST BENGAL)",
+              "contact":"9635986881"
+          },
+          {
+              "id":"11",
+              "name":"ALIPURDUAR MANABIK MUKH",
+              "address":"SANTINAGAR,PURAN BAZAR PO DIST- ALIPURDUAR PIN - 736121(WEST BENGAL)",
+              "contact":"9474845050"
+          },
+          {
+              "id":"12",
+              "name":"ACHARIYA PADMASAGAR SURI CHARITABLE TRUST JIAGANJ",
+              "address":"2B, MOTITAL BASAK LANE KOLKATA pin - 700054",
+              "contact":"9883856565"
+          },
+          {
+              "id":"13",
+              "name":"ALIPURDUAR RURAL AND TRIBAL DEVELOPMENT KALLYAN SAMITI",
+              "address":"BIDHAN PALLY P.O DIST: ALIPURDUAR PIN:736121(WEST BENGAL)",
+              "contact":"9475118750"
+          },
+          {
+              "id":"14",
+              "name":"ABU BAKAR KHAN SEBA SADAN",
+              "address":"64/2 JESSOE ROAD, P.OBARASAT, P.S- BARASAT, DIST- NORTH 24 PARGANAS, PIN- 700124, STATE - WEST BENGAL , INDIA",
+              "contact":"9830408010"
+          },
+          {
+              "id":"15",
+              "name":"ACHINTALA RESHAM KHADI GRAMIN UNNAYAN SAMITY",
+              "address":"VILL- ACHINTALA , P.O. - DEBIPUR ACHINTALA , P.S.- KALIACHAK DIST- MALDA , PIN - 732207.(WEST BENGAL)",
+              "contact":"8942882399"
+          },
+          {
+              "id":"16",
+              "name":"ALL BACKWARD CLASS RELIEF AND DEVELOPMENT MISSION",
+              "address":"17A, GIRISH CHANDRA BOSE ROAD, KOLKATA pin- 700014, West Bengal, India.",
+              "contact":"8641956544"
+          },
+          {
+              "id":"17",
+              "name":"ADARSHA YUVA SANGHA TRUST",
+              "address":"VILL PO- BRINDABANCHAK , PS- PANSKURA, DIST- PURBA MEDINIPUR PIN-721641 WEST BANGAL",
+              "contact":"8348777561"
+          },
+          {
+              "id":"18",
+              "name":"ACHINTALA RESHAM KHADI GRAMIN UNNAYAN SAMITY",
+              "address":"VILL- ACHINTALA , P.O. - DEBIPUR ACHINTALA , P.S.- KALIACHAK DIST- MALDA , PIN - 732207.",
+              "contact":"9674485035"
+          },
+          {
+              "id":"19",
+              "name":"ALL BENGAL VILLAGE LEVEL ENTERPRENEURS WELFARE ORGANISATION",
+              "address":"Amitava Jana PGSW with Medical consultant Vill-Aklabad Ward no 09 P.O-egra Dist.PurbaMedinipur pin-721429(WEST BENGAL)",
+              "contact":"9434162155"
+          },
+          {
+              "id":"20",
+              "name":"ALL BENGAL VILLAGE RESOURCE PERSON EMPLOYEES ASSOCIATION",
+              "address":"VILL PO PS-BHAGWANGOLA, DIST-MURSHIDABAD, PIN-742135, WEST BENGAL, INDIA",
+              "contact":"9732375010"
+          },
+          {
+              "id":"21",
+              "name":"ALL BENGAL WOMENS UNION",
+              "address":"89, ELLIOT ROAD, KOLKATA, pin - 700016(WEST BENGAL)",
+              "contact":"8240529884"
+          },
+          {
+              "id":"22",
+              "name":"ADHIKAR",
+              "address":"VIP Road,Abhaynagar(Opp-Radhanagar Bus Stand)Agartala,Tripura Pin-799005(WEST BENGAL)",
+              "contact":"9836365065"
+          },
+          {
+              "id":"23",
+              "name":"ADI BANGA DEVELOPMENT TRUST",
+              "address":"VILLP.O SITAKUNDU, P.S- BARUIPUR, DIST- 24 PGS(S), PIN - 743387(WEST BENGAL)",
+              "contact":"8420560780"
+          },
+          {
+              "id":"24",
+              "name":"ADIBASI KALYAN LAMPS LTD",
+              "address":"VILLPO GAIRKATA, DIST. JALPAIGURI PIN - 735212(WEST BENGAL)",
+              "contact":"9733203146"
+          },
+          {
+              "id":"25",
+              "name":"ADIHATTA",
+              "address":"Post office -Bishnupur, PS- Bishnupur, District- Bankura, Pin- 722122(WEST BENGAL)",
+              "contact":"7908675962"
+          },
+          {
+              "id":"26",
+              "name":"Behala Bratyajon",
+              "address":"Behala Bratyajon, Behala, 2C/1 Narayan Roy Rd., Borisha, Kolkata pin -  700008 (WEST BENGAL)",
+              "contact":"9903468748"
+          },
+          {
+              "id":"27",
+              "name":"Behala Chiranton",
+              "address":"92, Ray Bahadur Road, Behala, Kolkata pin - 700034,(WEST BENGAL)",
+              "contact":"9831038891"
+          },
+          {
+              "id":"28",
+              "name":"BAHADURPUR BOITORONI WELFARE TRUST",
+              "address":"VILL TALIPUR,P.O BAGDABRA,P.S FARAKKA,MURSHIDABAD,WB,pin - 742212,(WEST BENGAL)",
+              "contact":"9476427553"
+          },
+          {
+              "id":"29",
+              "name":"BEHALA HUMAN CARE MISSION",
+              "address":"3, Naba Pally Main Road, James Long Sarani, Joka,Kolkata pin - 700104,(WEST BENGAL)",
+              "contact":"9903300167"
+          },
+          {
+              "id":"30",
+              "name":"BAHARAN RAKSHA KALI AGRICULTURE SEBA SAMITY",
+              "address":"VILL-PO-BAHARAN ,PS-KETUGRAM ,BLOCK-KETUGRAM-II,DIST-PURBA BARDDHAMAN,PIN-713130 WEST BENGAL,INDIA",
+              "contact":"7063440422"
+          },
+          {
+             "id":"31",
+              "name":"BAHARGRAM SARBAHARA UNNAYAN SANGHA",
+              "address":"VILL- BAHARGRAM , PO- PANSKURA , PS- PANSKURA , DIST- EAST MIDNAPUR , PIN- 721152,(WEST BENGAL)",
+              "contact":"9434410257"
+          },
+          {
+              "id":"32",
+              "name":"BAHIRI MAHILA SAMITI",
+              "address":"VILLP.O DEULBARHP.S – MARISHDADISTPURBA MEDINIPUR PIN - 721427,(WEST BENGAL)",
+              "contact":"9609080608"
+          },
+          {
+              "id":"33",
+              "name":"BEHALA KAZIPARA ROAD YUVA SHAKTI PRATIKSHAN",
+              "address":"18 KAZIPARA ROAD RUPRASHI PARNASHREE KOLKATA pin - 700060,(WEST BENGAL)",
+              "contact":"9830181173"
+          },
+          {
+              "id":"34",
+              "name":"BAKRESWAR PRAKRITY JANAJAGARAN TRUST",
+              "address":"VILL.- KACHUJOREP.O- MAHUBONA DIST.- BIRBHUM PIN.-731102,(WEST BENGAL)",
+              "contact":"9434497523"
+          },
+          {
+              "id":"35",
+              "name":"BAKULTALA CHITTARANJAN SEBA SAMITY",
+              "address":"Vill P.o-bakultala,ps-raidighi Pin-743349, south 24pgs,(WEST BENGAL)",
+              "contact":"9123658053"
+          },
+          {
+              "id":"36",
+              "name":"BAL SURAKSHA ABHIYAN TRUST BSA",
+              "address":"Bal Suraksha Abhiyan Trust(BSA), Ashadeep, 8th Mile Kalimpong pin - 734301 District Kalimpong, West Bengal, India",
+              "contact":"9932874884"
+          },
+          {
+              "id":"37",
+              "name":"BALADEBPUR SITALA SEBA SAMITY",
+              "address":"VILL: BALADEBPUR, P.O : RAMAKANTANAGAR, P.S : MANDIRBAZAR, DIST : SOUTH 24 PGS, PIN - 743395., West Bengal, India",
+              "contact":"8637395845"
+          },
+          {
+              "id":"38",
+              "name":"BALAJI FOUNDATION",
+              "address":"18C,PARUI DASPARA ROAD, SARSUNA, SOUTH 24 PARGANAS, KOLKATA pin - 700061, West Bengal, India",
+              "contact":"9062100021"
+          },
+          {
+              "id":"39",
+              "name":"BALARAMPUR NIVEDITA NARI KALYAN SAMITY",
+              "address":"VILL BALARAMPUR SOUTH COLONY P.O BALARAMPUR COLONY P.S BERHAMPORE DIST MURSHIDABAD PIN - 742165, West Bengal, India",
+              "contact":"9475682505"
+          },
+          {
+              "id":"40",
+              "name":"BEHALA PASCHIM TRIPITAK SOCIETY",
+              "address":"57A BISHALAXMI TALA ROAD , PARNASREE PALLY KOLKATA pin - 700060, West Bengal, India",
+              "contact":"8478923029"
+          },
+          {
+              "id":"41",
+              "name":"BALDIABASA YOUTH SANGHA",
+              "address":"VILL-BALDIABASA,P.O-GOHARRAH,P.S-GOALPOKHAR,DIST UTTAR DINAJPUR.STATE-WEST BENGAL,PIN - 733208, West Bengal, India",
+              "contact":"9733367405"
+          },
+          {
+              "id":"42",
+              "name":"Behala Srijan",
+              "address":"57/1, Siddhinath Chatterjee Road, Behala, Kolkata pin - 700034, West Bengal, India",
+              "contact":"9433309993"
+          },
+          {
+              "id":"43",
+              "name":"BEJOYGARH MEGHDOOT",
+              "address":"1/27 Bejoygarh, Jadavpur, Kolkata pin - 700032, West Bengal, India",
+              "contact":"8001154694"
+          },
+          {
+              "id":"44",
+              "name":"BELADANDA VIDYASAGAR SOCIETY",
+              "address":" Beladanda, PO: Gohaldanga, Distt: Paschim Mednipur, West Bengal pin - 721232, West Bengal, India",
+              "contact":"7004638580"
+          },
+          {
+              "id":"45",
+              "name":"BALLY BELUR BAUDDHA SAMITY",
+              "address":"BALLY BELUR BAUDDHA SAMITY,BASUKATI,ANANDANAGAR,NISCHINDA,HOWRAH,PIN - 711227, West Bengal, India",
+              "contact":"9163934609"
+          },
+          {
+              "id":"46",
+              "name":"BALLY SADHARAN GRANTHAGAR KARMISANGHA",
+              "address":"383 G T Road Po - Bally, District - Howrah West Bengal Pin - 711201, West Bengal, India",
+              "contact":"9433153582"
+          },
+          {
+              "id":"47",
+              "name":"BALO WELFARE SOCIETY",
+              "address":"1, ALAM MISTRY LANE, PILKHANA, HOWRAH pin - 711101., West Bengal, India",
+              "contact":"7063506206"
+          },
+          {
+              "id":"48",
+              "name":"BALUMATI RESHAM KHADI TRUST",
+              "address":"Vill-Balumati, P.O-Tenkaraipur, P.S- Islampur, Dist-Murshidabad, Pin - 742304, West Bengal, India",
+              "contact":"9064379243"
+          },
+          {
+              "id":"49",
+              "name":"BELARIA EAST SOCIETY FOR UPLIFTMENT AND RURAL EMPOWERMENT",
+              "address":"VILLAGE BELARIA EAST PO PS MAGRAHAT PIN - 743355, West Bengal, India",
+              "contact":"9932874884"
+          },
+          {
+              "id":"50",
+              "name":"BELDIH VIVEKANANDA CLUB",
+              "address":"VILL BELDIH , P.O.- PABRA PAHARI, P.S.- KASHIPUR, DIST.- PURULIA, STATE - WEST BENGAL , PIN - 723130, West Bengal, India",
+              "contact":"9064192657"
+          },
+          {
+              "id":"51",
+              "name":"BELGHARIA NILGANJ ROAD ABHIJATREE ASSOCIATION",
+              "address":"59/4, Nilhanj Road, Nabin Pally, Belgharia Kolkata pin - 700056, West Bengal, India",
+              "contact":"8292800879"
+          },
+          
+          {
+              "id":"52",
+              "name":"CAPE FOUNDATION",
+              "address":"21/2 Dover Road, Kolkata pin - 700019, West Bengal, West Bengal, India",
+              "contact":"9830167433"
+          },
+          {
+              "id":"53",
+              "name":"CARE CLUB WELFARE TRUST",
+              "address":"Munshi Prem Chand Pally,Ushagram,Asansol,Post-Mohishila,Pin - 713339,Dist-West Burdwan, West Bengal, India",
+              "contact":"9855670879"
+          },
+          {
+              "id":"54",
+              "name":"CARE HOUSE CHARITABLE TRUST",
+              "address":"NATUNGRAM, MONASHABARI, P.O.- PRAFULLA NAGAR, P.S.- HABRA, DIST.- NORTH 24 PARGANAS, PIN CODE - 743268, West Bengal, India",
+              "contact":"9822800879"
+          },
+          {
+              "id":"55",
+              "name":"COSSIPORE SWA PATH",
+              "address":"8, SETH PUKUR ROAD, KOLKATA pin – 700 002, West Bengal, India",
+              "contact":"9433196782"
+          },
+          {
+              "id":"56",
+              "name":"CRAFTS COUNCIL OF WEST BENGAL",
+              "address":"64,LAKE PLACE KOLKATA pin - 700029, West Bengal, India",
+              "contact":"9655002488"
+          },
+          {
+              "id":"57",
+              "name":"CHACKASHI VIVEK VEER WELFARE SOCIETY",
+              "address":"Chackashi Colony No2 , Chackashi, Howrah pin - 711307, West Bengal, India",
+              "contact":"8579800879"
+          },
+          {
+              "id":"58",
+              "name":"CHAKBAIDYA WOMEN WELFARE ASSOCIATION",
+              "address":"VILL. CHAKBAIDYA, PO. BAIDYAHAT, PS. KULPI, DIST. SOUTH 24 PARGANAS, PIN - 743336, West Bengal, India",
+              "contact":"7001191001"
+          },
+          {
+              "id":"59",
+              "name":"CREDO Orbis",
+              "address":"152,Peary Mohan Roy Road ,P.SChetla,Kolkata pin - 700027, West Bengal, India",
+              "contact":"9007055566"
+          },
+          {
+              "id":"60",
+              "name":"CHAKMAKRAMPUR VIDYASAGAR CHILD WELFARE SOCIETY",
+              "address":"VillP.O.- Chakmakrampur, P.S.- Kharagpur (L),Dist .-Paschim Medinipur, West Bengal, Pin – 721149, West Bengal, India",
+              "contact":"9972800818"
+          },
+          {
+              "id":"61",
+              "name":"DAKHIN DAMADAR CITIZENS AND CONSUMERS PROTECTION CENTRE 2003",
+              "address":"ICHAPUR KALITALA, MEMARI, PURBA BARDHAMAN,pin - 713146 , West Bengal, India",
+              "contact":"9083863111"
+          },
+          {
+              "id":"62",
+              "name":"DAKHIN RAMNAGAR ADARSHA SHISHU ANGAN",
+              "address":"R K M MILL BAZAR VILL- RAMNAGAR P.O -BAIRGACHI BLOCKP.S- GAZOLE Dist-Malda PIN NO-732102, West Bengal, India",
+              "contact":"8967867722"
+          },
+          {
+              "id":"63",
+              "name":"DAKHSIN PANIALGURI GRAM BIKAS SAMITY",
+              "address":"DAKSHIN PANIALGURI GRAM BIKAS SAMITY, VILLAGE: DAKSHINPANIALGURI, PO: MAJHERDABRI ALIPURDUAR, ALIPURDUAR,pin - 736123, West Bengal, India",
+              "contact":"9733142464"
+          },
+          {
+              "id":"64",
+              "name":"DAKSHIN DURGAPUR KSHUDIRAM SMRITI SANGHA",
+              "address":"VILL. DAKSHIN DURGAPUR, PO. SREE DURGAPUR, PS. DHOLAHAT, DIST. SOUTH 24 PARGANAS, PIN. - 743349, West Bengal, India",
+              "contact":"9733818876"
+          },
+          {
+              "id":"65",
+              "name":"CHANDPARA PROGOTI SHIL YUBA SANSTHA",
+              "address":"VILL-SONATIKARI,P.O-CHANDPARA BAZAR,P.S-GAIGHATA,DIST-NORTH 24 PARGANAS,WEST BENGAL,PIN-743245, West Bengal, India",
+              "contact":"9546620012"
+          },
+          {
+              "id":"66",
+              "name":"CHANDRAKONA EDUCATIONAL TRUST",
+              "address":"RADHAKRISHNAPUR, WARD NO.: 10, POSTP.S.: CHANDRAKONA, DISTRICT: PASCHIM MEDINIPUR, PIN: 721201, West Bengal, India",
+              "contact":"70032699584"
+          },
+          {
+              "id":"67",
+              "name":"CHANGUAL IDEAL WELFARE SOCIETY",
+              "address":"VILLPO CHANGUAL PS KHARAGPUR LOCAL PIN - 721301, West Bengal, India",
+              "contact":"9855642102"
+          },
+          {
+              "id":"68",
+              "name":"CHARBAK",
+              "address":"29/1,PANDITIYA ROAD, KOLKATA pin -700029, West Bengal, India",
+              "contact":"9855648298"
+          },
+          {
+              "id":"69",
+              "name":"DAKSHIN BHATORA SOCIAL WELFARE ORGANIZATION",
+              "address":"VillageDakshin Bhatora , P.O.Bhatora, P.S.- Joypur, Dist.- Howrah, PIN - 711303, West Bengal, India",
+              "contact":"9143425769"
+          },
+          {
+              "id":"70",
+              "name":"DAKSHIN CHANDANPIRI VIVEKANANDA WELFARE SOCIETY",
+              "address":"VILL DAKSHIN CHANDANPIRI, P.O. - CHANDANPIRI, P.S.- NAMKHANA, DIST- SOUTH 24 PGS, PIN CODE - 743357, West Bengal, India",
+              "contact":"9674603898"
+          },
+          {
+              "id":"71",
+              "name":"DAKSHIN CHARAIKHEYA UNITED CLUB",
+              "address":"VILL- Dakshin CharaikheyaP.O.- Satmile BLOCK- Contai-I DIST.- Purba Medinipur PIN - 721452., West Bengal, India",
+              "contact":"9732740740"
+          },
+          {
+              "id":"72",
+              "name":"DAKSHIN DAMODAR AMIN SAMITY",
+              "address":"VILL POSTBETUR, PSPATRASAYER, DIST BANKURA, PIN - 722206, West Bengal, India",
+              "contact":"9475865040"
+          },
+          {
+              "id":"73",
+              "name":"CHETANA",
+              "address":"8/A KABI KIRAN DHAN ROAD, P.O.-BHADRAKALI, P.S.-UTTARPARA, DIST-HOOGHLY, PIN - 712232, West Bengal, India",
+              "contact":"9877456871"
+          },
+          {
+              "id":"74",
+              "name":"CHETANA CHARITABLE TRUST",
+              "address":"VILL-SITARAMPUR,PO-SRINAGAR MAKAR PARA,PS-HARWOOD POINT COASTAL,DIST-SOUTH 24 PARGANAS,PIN - 743374., West Bengal, India",
+              "contact":"8547996547"
+          },
+          {
+              "id":"75",
+              "name":"CHHABILPARA SAMABAY KRISHI UNNAYAN SAMITY LIMITED",
+              "address":"VILL- CHHABILPARA, P.S.- KALIACHAK, P.O.- MEHERAPUR, DIST- MALDA, PIN- 732207, West Bengal, India",
+              "contact":"9458671156"
+          },
+          {
+              "id":"76",
+              "name":"CHHANDPARA SID SARE FARMERS CLUB",
+              "address":"VILL CHHANDPARA PO HARDA PS BINPURBLOCK BINPUR 2DIST JHARGRAM WEST BENGAL PIN - 721504, West Bengal, India",
+              "contact":"8116428355"
+          },
+          {
+              "id":"77",
+              "name":"DISHA WELFARE FOUNDATION",
+              "address":"Vill-Debaipur, P.O-Debaipur, P.S-Ranitala, Pin-742135, West Bengal, India",
+              "contact":"9735344832"
+          },
+          {
+              "id":"78",
+              "name":"DISHA WELFARE SOCIETY",
+              "address":"VILL:- GOKULPUR, WARD NO. 10, KANCHRAPARA, P.O:- KATAGANJ, P.S:- KALYANI, DIST:- NADIA, PIN:- 741250, West Bengal, India",
+              "contact":"8918935937"
+          },
+          {
+              "id":"79",
+              "name":"DISHARI WOMENS FEDERATION",
+              "address":"28/1B/1,BOSE PUKUR ROADKOLKATA pin - 700042, West Bengal, India",
+              "contact":"9836005717"
+          },
+          {
+              "id":"80",
+              "name":"Divine Bliss Foundation",
+              "address":"40/2, Rupchand Mukherjee Lane, Kolkata pin - 700025, West Bengal, India",
+              "contact":"7439884844"
+          },
+          {
+              "id":"81",
+              "name":"Dr. Siddique Hossain Welfare Trust",
+              "address":"villpoBishare PSMurarai DistBirbhum Pin - 731238, West Bengal, India",
+              "contact":"7458900120"
+          },
+          {
+              "id":"82",
+              "name":"DUM DUM CHAKRABAK",
+              "address":"214,S.H.K.B.SARANI JAW PURE ROAD AMRITA APARTMENT (GROUND FLOOR) KOLKATA pin - 700074, West Bengal, India",
+              "contact":"8564899954"
+          },
+          {
+              "id":"83",
+              "name":"DIVINE WELFARE TRUST",
+              "address":"Munshi Premchand Palli, P.O.- Mohishila Gram, Via – Kalipahari, Asansol pin – 713 339, Dist- Paschim Bardhaman, West Bengal, India",
+              "contact":"8016184161"
+          },
+          {
+              "id":"84",
+              "name":"DUM DUM AAICHHIK",
+              "address":"27/3BAGUIHATI 1ST LANE, AAMBAGAN, KOLKATA pin - 700028, West Bengal, India",
+              "contact":"7548965410"
+          },
+          {
+              "id":"85",
+              "name":"DUM DUM BISWARUPAM",
+              "address":"42/11, DAGA COLONY, DUM DUM ROAD, KOLKATA pin - 700074, West Bengal, India",
+              "contact":"9587744853"
+          },
+          {
+              "id":"86",
+              "name":"DIYASHA ACADEMY",
+              "address":"107/1,b.c. mukherjee road, po- tribeni, p.s- mogra, pin-712503, dist- hooghly, West Bengal, India",
+              "contact":"7044180018"
+          },
+          {
+              "id":"87",
+              "name":"EQUIDIVERSITY FOUNDATION",
+              "address":"34 Ballygunge Circular Road.Kolkata pin - 700019, West Bengal, India",
+              "contact":""
+          },
+          {
+              "id":"88",
+              "name":"Einstein Welfare Trust",
+              "address":"Kotulpur International School, (Ghosh para, Near Goruhat-tala), Kotulpur, Dist-Bankura, Pin - 722141, West Bengal, India",
+              "contact":"8777654234"
+          },
+          {
+              "id":"89",
+              "name":"ENVERT FOUNDATION",
+              "address":"Flat No: E, B/6 Bapujinagar, PS-Jadavpur, District: South 24 Paraganas, West Bengal, PIN-700092, West Bengal, India",
+              "contact":"9477865317"
+          },
+          {
+              "id":"90",
+              "name":"EKTA Incubation Centre",
+              "address":"City Office:Address: BF Block, Sector 1, Bidhannagar, Kolkata, West Bengal pin - 700064 MAKAUT Main Campus, NH-12 (Old NH-34) Simhat, Haringhata, Nadia, West Bengal, India",
+              "contact":"7894568754"
+          },
+          {
+              "id":"91",
+              "name":"FOR GOOD",
+              "address":"SUBHASH NAGAR, PIRGACHA, P.O KADOMBOGACHI, P.S-DUTTAPUKUR, DIST:- KOLKATA, PIN - 700125, West Bengal, India",
+              "contact":"7278436649"
+          },
+          {
+              "id":"92",
+              "name":"FUTISANKO SABOOJ SANGHA",
+              "address":"VILL-FUTISANKO PO-KHANJI PS-KETUGRAM DIST-PURBA BARDDHAMAN PIN - 713129 , West Bengal, India",
+              "contact":"8564954210"
+          },
+          {
+              "id":"93",
+              "name":"G S CHARITABLE TRUST",
+              "address":"VILL:- EAST FATEPUR, P.O.:- MEGNAVITA, BLOCK KARANDIGHI, P.S:- KARANDIGHI, SUB:- LASLAMPUR, DIST:- UTTAR DINAJPUR, PIN:- 733201, West Bengal, India",
+              "contact":"8475454699"
+          },
+          {
+              "id":"94",
+              "name":"GARFA CENTER FOR SUSTAINABLE SOLUTIONS IN SOCIAL WELFARE",
+              "address":"Flat 2A First Floor 15/2/P/23 Jheel Road, Bank Plot Kolkata pin - 700075, West Bengal, India",
+              "contact":"9831690723"
+          },
+          {
+              "id":"95",
+              "name":"GARIA AKOTRE",
+              "address":"FARTABAD, BELTALA, GARIA KOLKATA pin - 700084,West Bengal, India",
+              "contact":"9163668640"
+          },
+          {
+              "id":"96",
+              "name":"HUMAN CARE",
+              "address":"VILL PO- GOPALPUR HAT, PS- FALTA , Dist- South 24 Parganas, Pin no- 743504, West Bengal, India",
+              "contact":"9153018190"
+          },
+          {
+              "id":"97",
+              "name":"Hazipur Farmers Club",
+              "address":"HAZIPUR PO-BEGUNIA PS-MOLLARPUR DIST-BIRBHUM PIN - 731245 , West Bengal, India",
+              "contact":"8784546970"
+          },
+          {
+              "id":"98",
+              "name":"Hazra Adhiti",
+              "address":"Hazra Adhiti, 13A Satish Mukherjee Road, Kolkata pin - 700026., West Bengal, India",
+              "contact":"9969229032"
+          },
+          {
+              "id":"99",
+              "name":"HUMAN DEVELOPMENT CENTRE",
+              "address":"HUMAN DEVELOPMENT CENTRE VILL. - MASTIKARI,P.O. - DAKSHIN BARASAT, P.S. - JOYNAGAR,DIST. - SOUTH 24-PARGANAS, PIN. - 743372, West Bengal, India",
+              "contact":"9800477126"
+          },
+          {
+              "id":"100",
+              "name":"HEALERS FOUNDATION",
+              "address":"50/A/1C DIAMOND HARBOUR ROAD, KOLKATA pin - 700027, West Bengal, India",
+              "contact":"8546988212"
+          },
+          {
+              "id":"101",
+              "name":"HEALTH CARE FOUNDATION",
+              "address":"90 Patbari Lane, 6 No., Barahnagar, Dist.- North 24 Parganas, Kolkata pin - 700 035, West Bengal, India",
+              "contact":"7845968475"
+          },
+          {
+            "id":"102",
+            "name":"Sabuj Sangha",
+            "address":"30/9, Rajdanga Main Road (East), Kolkata 700107 West Bengal",
+            "contact":"033 2441 4357"
+        },
+        {
+            "id":"103",
+            "name":"Tomorrows Foundation",
+            "address":"61/1 Pratapaditya Road, Near Hp Gas Office, Kolkata 700026 West Bengal",
+            "contact":"8910015930"
+        },
+        {
+            "id":"104",
+            "name":"Progressive Rural Active Youth’s Action for Society",
+            "address":"House of Mr. Lakshman Chandra Khamrui, ICPAPUR Sealdanga P. O. - Santragachi Dist. Howrah",
+            "contact":"6291984302"
+        }
+          ]
+}
